@@ -55,6 +55,6 @@ NSC AD470 Data Science Practicum (ToDo: add image of NSC and Cranidores logo) an
 - Brandon Dombrowsky, Technical Project Manager
   - Kristin Jue, Co-Technical Project Manager
   
-## Aclnowledgements
+## Acknowledgements
 - [Cranidores.org](https://cranidores.org/) 
 - Mentor - BC Ko, NSC Faculity? (ToDo: Is this appropriate?)
