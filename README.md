@@ -22,18 +22,6 @@ NSC AD470 Data Science Practicum (ToDo: add image of NSC and Cranidores logo) an
 
 #### Visualization Dashboard 2 (ToDo: before and after images)
 
-#### Visualization Dashboard 3 (ToDo: before and after images)
-
-#### Visualization Dashboard 4 (ToDo: before and after images)
-
-#### Visualization Dashboard 5 (ToDo: before and after images)
-
-#### Visualization Dashboard 6 (ToDo: before and after images)
-
-#### Visualization Dashboard 7 (ToDo: before and after images)
-
-#### Visualization Dashboard 8 (ToDo: before and after images)
-
 ## Visit our [Wiki](https://github.com/KristinJJ/Cranidores/wiki) page for more information
 
 ## Contribute
@@ -42,19 +30,14 @@ NSC AD470 Data Science Practicum (ToDo: add image of NSC and Cranidores logo) an
 ## License
 [GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)
 
-## Contact
-- Team member? (ToDo: Who?)
-- Lawrence? (ToDo: Do they agree?)
-
 ## Team Members
-- Scott Hansford, Data Scientist Developer and Product Owner
-  - Lucas Knezevich, Data Scientist Developer
-  - Courtney Hoppus, Data Scientist Developer
-  - Ariunzaya Erdenebileg, Data Scientist Developer
-  - Kristin Jue, Data Scientist Developer
 - Brandon Dombrowsky, Technical Project Manager
-  - Kristin Jue, Co-Technical Project Manager
-  
+- Kristin Jue, Co-Technical Project Manager and Data Scientist Developer
+- Scott Hansford, Data Scientist Developer and Product Owner
+- Lucas Knezevich, Data Scientist Developer
+- Courtney Hoppus, Data Scientist Developer
+- Ariunzaya Erdenebileg, Data Scientist Developer
+
 ## Acknowledgements
 - [Cranidores.org](https://cranidores.org/) 
-- Mentor - BC Ko, NSC Faculity? (ToDo: Is this appropriate?)
+- Mentor - BC Ko, NSC Faculity 
