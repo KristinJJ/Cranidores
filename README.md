@@ -1,15 +1,35 @@
 # National High School Computer Science Education Stats via Cranidores.org
-NSC AD470 Data Science Practicum (ToDo: add image of NSC and Cranidores logo) and one line intro
+North Seattle College AD470 Data Science Practicum in partnership with Cranidores.org
+ 
+[![cranidores.png](https://i.postimg.cc/8Pp4yZXt/cranidores.png)](https://postimg.cc/PN71JQjw)
+ 
+[![NSC.png](https://i.postimg.cc/bwMRwpyB/NSC.png)](https://postimg.cc/JsNXTwBN)
 
 ## Table of Contents (ToDo: each would be linked to bullet for faster navigation)
-- About The Project
-- Results
-- Contribute
-- Contact
-- Acknowledgements
+- [About The Project](https://github.com/KristinJJ/Cranidores/edit/main/README.md#about-the-project)
+- [Results](https://github.com/KristinJJ/Cranidores/edit/main/README.md#results)
+- [Acknowledgements]()
 
-## About The Project (ToDo: A brief summary of the project and Lawrence's work w/before after main page.)
+## About The Project 
+The team was tasked with doing as much as possible to duplicate existing data visulations found on the client's site. 
+ 
+#### Initial Visualization:
+- Static images set onto page as a png embeded into the HTML
+ 
 [![mainPage.png](https://i.postimg.cc/MH9C3HqN/mainPage.png)](https://postimg.cc/q6CDzktx)
+
+## Results
+#### Starting Visualization
+[![new4.png](https://i.postimg.cc/P5Rkfp8n/new4.png)](https://postimg.cc/yDcGvNPL)
+ 
+[![new5.png](https://i.postimg.cc/KznX50pm/new5.png)](https://postimg.cc/6251WfNP)
+
+#### Suggested Visualizations
+- Interactive visulations with tool tip indicating data for each state and/or datapoint
+
+[![new1.png](https://i.postimg.cc/HkfQCz3G/new1.png)](https://postimg.cc/PCQLWmBK)
+ 
+[![new2.png](https://i.postimg.cc/pTvzmdgq/new2.png)](https://postimg.cc/06tb395w) 
 
 #### Completed With
 - Tableau Desktop
@@ -17,15 +37,7 @@ NSC AD470 Data Science Practicum (ToDo: add image of NSC and Cranidores logo) an
 - Tableau Prep Builder
 - Microsoft Excel
 
-## Results   *** Run the dashboard video images??? ***
-#### Visualization Dashboard 1 (ToDo: before and after images)
-
-#### Visualization Dashboard 2 (ToDo: before and after images)
-
 ## Visit our [Wiki](https://github.com/KristinJJ/Cranidores/wiki) page for more information
-
-## Contribute
-#### Sponsor (ToDo: Do we want a link to contribute to Lawrence's efforts?)
 
 ## License
 [GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)
