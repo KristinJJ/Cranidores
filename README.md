@@ -45,6 +45,11 @@ The team created interactive visulations, with tool tip indicating data points, 
 ##### Washington Specific Scorecard
 [![new6.png](https://i.postimg.cc/QM4HSyPV/new6.png)](https://postimg.cc/PLDX52dk)
  
+##### State Changeable Scorecard 
+Not in same Tableau story as previous 6 images, [visit here](https://public.tableau.com/app/profile/lucas.knezevich/viz/2022UnitedStatesComputerScienceEducationScorecard/2022Scorecard?publish=yes) to interact with this visualization.
+ 
+[![changeable.png](https://i.postimg.cc/bwk5LL1x/changeable.png)](https://postimg.cc/CRMJxGP5)
+
 #### Project Completed Using
 - Tableau Desktop
 - Tableau Cloud
